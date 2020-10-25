@@ -10,15 +10,13 @@ This repository contains two folders (files and images) along with several files
 
 * appstore-games.csv is the unzipped file of the original dataset
 
-* final-draft.ipynb is a Jupyter notebook containing all the code for this project: analyzing the dataset, creating a model, and plotting information
+* [final.ipynb](https://github.com/bronwencc/Module-5-Project/blob/master/final.ipynb) is a Jupyter notebook containing all the code for this project: analyzing the dataset, creating a model, and plotting information
 
-* LICENSE.md is the license detailing under what circumstances the code and its derivatives, and the files contained in this repository may be used
+* [LICENSE.md](https://github.com/bronwencc/Module-5-Project/blob/master/LICENSE.md) is the license detailing under what circumstances the code and its derivatives, and the files contained in this repository may be used
 
-* README.md is this file explaining the contents of this repository
+* [presentation.pdf](https://github.com/bronwencc/Module-5-Project/blob/master/presentation.pdf) is a PDF for a business audience presenting the results, recommendations and future ideas
 
-* presentation.pdf is a PDF for a business audience presenting the results, recommendations and future ideas
-
-### The ["files" folder](https://github.com/bronwencc/Module-5-Project/tree/master/files/) contains CSV files saved from various points of working on the project:
+### The [files folder](https://github.com/bronwencc/Module-5-Project/tree/master/files/) contains CSV files saved from various points of working on the project:
 
 * binsiap7464.csv is the data from the In-app Purchases feature sorted based on whether the record has one or more in-app purchases falling into one of six bins, except if there are no in-app purchases or only those that cost 0, they have a 1 in iapb_none and 0 in all other columns
 * iap7464.csv is similar to above, except without bins, for every price in In-app Purchases
@@ -27,7 +25,7 @@ This repository contains two folders (files and images) along with several files
 * temp7464.csv contains the dataset with all relevant numerical features, creating dummy columns or simple counts of characters from an original text column
 * tempbins7464.csv similarly contains all numerical versions of features, except with bins for the In-app Purchases column
 
-### The ["images" folder](https://github.com/bronwencc/Module-5-Project/tree/master/images/) contains plots of various features as .PNG files:
+### The [images folder](https://github.com/bronwencc/Module-5-Project/tree/master/images/) contains plots of various features as .PNG files:
 
 * Several display percentages of binary categorical features comparing the records that have the feature to those without by looking at stacked bar chart percentages of whether they have the target variable or not (1 for Average User Ratings 4.5 or 5, 0 for Average User Ratings 4 and under)
 
