@@ -8,12 +8,11 @@ The apps' average ratings were provided at halves, so there are no apps in the d
 I wrote a [blog post](https://bronwencc.github.io/a_higher_rated_strategy_game_app) that goes into more detail about this project.
 
 ### 5 significant features with highest importance:
-* The number of ratings
-* Whether the app has a Subtitle
-* The size of the application
-* The length of Description text
-* Whether the application is in the Simulation genre
-
+* The number of ratings: Apps with more ratings had higher average user ratings
+* Whether the app has a Subtitle: Apps with a Subtitle had higher average user ratings
+* The size of the application: Larger apps had higher average user ratings
+* The length of Description text: Apps with a longer Description had higher average user ratings
+* Whether the application is in the Simulation genre: More apps in the simulation genre than not in that genre had lower average user ratings
 
 ## Repository contains folders and files:
 
