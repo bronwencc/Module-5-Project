@@ -1,10 +1,21 @@
 # Module 5 Project: Qualities of A Higher-Rated App
+## Overview
 This project was for The Flatiron School, Inc.'s Data Science bootcamp, and was put together by Bronwen C.
 The dataset was information on strategy game apps provided by a Kaggle user. The analysis found 11 important features that account for whether an app has a higher rating or a lower rating.
 A higher-rated app was defined as having an average user rating of 4.5 or higher and a lower-rated app was defined as having an average rating of 4 or under.
 The apps' average ratings were provided at halves, so there are no apps in the dataset with an average rating between 4 and 4.5.
 
-##Repository contains folders and files:
+I wrote a [blog post](https://bronwencc.github.io/a_higher_rated_strategy_game_app) that goes into more detail about this project.
+
+### 5 significant features with highest importance:
+* The number of ratings
+* Whether the app has a Subtitle
+* The size of the application
+* The length of Description text
+* Whether the application is in the Simulation genre
+
+
+## Repository contains folders and files:
 
 * 17k-apple-app-store-strategy-games.zip is a compressed file of the [dataset from Kaggle](https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games), created by Kaggle user Tristan
 
