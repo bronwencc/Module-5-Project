@@ -5,7 +5,7 @@ The dataset was information on strategy game apps provided by a Kaggle user. The
 A higher-rated app was defined as having an average user rating of 4.5 or higher and a lower-rated app was defined as having an average rating of 4 or under.
 The apps' average ratings were provided at halves, so there are no apps in the dataset with an average rating between 4 and 4.5.
 
-I wrote a [blog post](https://bronwencc.github.io/a_higher_rated_strategy_game_app) that goes into more detail about this project.
+I wrote a [blog post](https://bronwencc.github.io/a_higher_rated_strategy_game_app) that goes into more detail about this project. [Another blog post](https://bronwencc.github.io/two_experiences_with_feature_engineering_using_pandas) goes into more detail specifically about engineering a feature I did not end up using.
 
 ### 5 significant features with highest importance:
 * The number of ratings: Apps with more ratings had higher average user ratings
