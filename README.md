@@ -39,8 +39,8 @@ I wrote a [blog post](https://bronwencc.github.io/a_higher_rated_strategy_game_a
 
 * Several display percentages of binary categorical features comparing the records that have the feature to those without by looking at stacked bar chart percentages of whether they have the target variable or not (1 for Average User Ratings 4.5 or 5, 0 for Average User Ratings 4 and under)
 
-* Two plots are scatter plots looking at continuous features compared to Average User Rating (the latter on a scale from 1 to 5). One of them is of app size.
+* Two plots are scatter plots looking at continuous features compared to Average User Rating (the latter on a scale from 1 to 5). One of them is of app size:
 ![Scatter plot of App Size (in Gibibytes) compared to Average User Rating with most points being small app size at all ratings; no app rated 2 or lower has size larger than ~0.5 GiB; with sparse scattering for sizes larger than ~2.5 GiB, all of those have 3.5 rating or higher](https://raw.githubusercontent.com/bronwencc/Module-5-Project/master/images/Distribution%20of%20Size.png)
 
-* One image is two box plots comparing the length of the Description text in number of characters for higher- and lower-rated records
+* One image is two box plots comparing the length of the Description text in number of characters for higher- and lower-rated records:
 ![Pair of box plots without outliers showing higher-rated apps have higher values for the median, the third quartile and the upper extreme](https://raw.githubusercontent.com/bronwencc/Module-5-Project/master/images/Description%20Box-Plots.png)
